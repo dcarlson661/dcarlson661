@@ -1,0 +1,22 @@
+{
+  "name": "videochat",
+  "version": "1.0.0",
+  "description": "udemy practical webrtc videochat lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "udemypracticalwebrtcvideochat"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "david carlson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
