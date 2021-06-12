@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dcarlson661
 - 👀 I’m interested in all sorts of computer programming
-- 🌱 I’m currently doing yet another refresher
 - 
 
 <!---
